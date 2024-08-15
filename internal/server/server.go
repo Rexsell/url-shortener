@@ -1,3 +1,3 @@
-package http
+package server
 
 //Сюда бы засунул хэндлеры к серверу http и его запуск
